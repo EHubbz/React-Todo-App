@@ -36,7 +36,7 @@ class CreateTask extends React.Component {
 
     const createInputTitle = this.refs.createInputTitle;
     const createInputDescription = this.refs.createInputDescription;
-    const task = createInputTitle.value + ": " + createInputDescription;
+    const task = createInputTitle.value + ": " + createInputDescription.value;
     const validateInput = this.validateInput(task);
 
     if (validateInput) {
