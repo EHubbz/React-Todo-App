@@ -2,10 +2,6 @@
   "name": "udemy",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "npm": "5.7.1",
-    "node": "9.5.0"
-  },
   "dependencies": {
     "lodash": "^4.17.10",
     "react": "^16.4.1",
