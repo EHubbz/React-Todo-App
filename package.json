@@ -2,7 +2,7 @@
   "name": "udemy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EHubbz.github.io/React-Todo-App",
+  "homepage": "https://ehubbz.github.io/React-Todo-App",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "lodash": "^4.17.10",
